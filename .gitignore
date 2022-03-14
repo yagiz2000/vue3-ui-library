@@ -1,0 +1,7 @@
+rollup.config.js
+dist/
+  library.mjs
+  library.js
+
+
+node_modules
